@@ -1,8 +1,8 @@
 
 
-import { type ReactNode } from "react"; 
-import AnimationProvider from "@/common/AnimationProvider";
-import ScrollToTop from "@/common/ScrollToTop";
+import { type ReactNode } from "react";
+import AnimationProvider from "../common/AnimationProvider";
+import ScrollToTop from "../common/ScrollToTop";
 
 interface WrapperProps {
   children: ReactNode;

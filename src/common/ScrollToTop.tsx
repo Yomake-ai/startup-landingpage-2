@@ -1,4 +1,4 @@
-import UseSticky from "@/hooks/UseSticky";
+import UseSticky from "../hooks/UseSticky";
 import { useState, useEffect } from "react";
 
  

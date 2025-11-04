@@ -1,4 +1,4 @@
-import Link from "@/components/Link"; 
+import Link from "../components/Link"; 
 interface BreacrumbProps {
   title?: string;
   page?: string;

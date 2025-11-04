@@ -1,5 +1,5 @@
 "use client";
-import Link from "@/components/Link";
+import Link from "../../components/Link";
 import { useEffect, useRef, useState } from "react";
 
 // ✅ CTA slider items (data-driven)

@@ -16,16 +16,6 @@
     "noEmit": true,
     "jsx": "react-jsx",
 
-    /* Path mapping */
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./src/*"],
-      "@/assets/*": ["./public/assets/*"],
-      "@/data/*": ["./src/data/*"],
-      "@/hooks/*": ["./src/hooks/*"],
-      "@/utils/*": ["./src/utils/*"]
-    },
-
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,

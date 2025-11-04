@@ -1,5 +1,5 @@
-import menu_data from "@/data/menu-data";
-import Link from "@/components/Link";
+import menu_data from "../../data/menu-data";
+import Link from "../../components/Link";
 
 interface NavmenuProps {
   menu_style?: boolean;

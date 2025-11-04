@@ -1,7 +1,7 @@
 "use client";
-import Link from "@/components/Link";
+import Link from "../../components/Link";
 import Navmenu from "./Navmenu";
-import UseSticky from "@/hooks/UseSticky";
+import UseSticky from "../../hooks/UseSticky";
 import { useState } from "react";
 import MobileMenu from "./MobileMenu"; 
  
